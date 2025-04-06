@@ -1,41 +1,57 @@
-{
-  "season": "Весна",
-  "blocks": [
-    {
-      "title": "Плащи",
-      "images": [
-        "https://example.com/images/spring/coat1.jpg",
-        "https://example.com/images/spring/coat2.jpg",
-        "https://example.com/images/spring/coat3.jpg"
-      ]
-    },
-    {
-      "title": "Кожанки",
-      "images": [
-        "https://example.com/images/spring/jacket1.jpg",
-        "https://example.com/images/spring/jacket2.jpg"
-      ]
-    },
-    {
-      "title": "У вас скоро выпускной?",
-      "images": [
-        "https://example.com/images/events/prom1.jpg",
-        "https://example.com/images/events/prom2.jpg"
-      ]
-    },
-    {
-      "title": "У вас свадьба?",
-      "images": [
-        "https://example.com/images/events/wedding1.jpg",
-        "https://example.com/images/events/wedding2.jpg"
-      ]
-    },
-    {
-      "title": "Важное событие?",
-      "images": [
-        "https://example.com/images/events/suit1.jpg",
-        "https://example.com/images/events/suit2.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "season": "Весна",
+    "blocks": [
+      {
+        "title": "Плащи",
+        "images": [
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2021/03/1-1.jpg",
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2021/03/2-1.jpg",
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2021/03/3-1.jpg",
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2021/03/4-1.jpg",
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2021/03/5-1.jpg"
+        ]
+      },
+      {
+        "title": "Кожаные куртки",
+        "images": [
+          "https://www.yapokupayu.ru/images/cache/2021/04/26/fit_930_519_false_crop_1200_675_0_0_q90_421358_6d5d6e6c0c.jpeg",
+          "https://www.yapokupayu.ru/images/cache/2021/04/26/fit_930_519_false_crop_1200_675_0_0_q90_421359_f3c5a2a0d1.jpeg",
+          "https://www.yapokupayu.ru/images/cache/2021/04/26/fit_930_519_false_crop_1200_675_0_0_q90_421360_0e2e1d0c4c.jpeg",
+          "https://www.yapokupayu.ru/images/cache/2021/04/26/fit_930_519_false_crop_1200_675_0_0_q90_421361_2e0b2b9d7a.jpeg",
+          "https://www.yapokupayu.ru/images/cache/2021/04/26/fit_930_519_false_crop_1200_675_0_0_q90_421362_6d5d6e6c0c.jpeg"
+        ]
+      },
+      {
+        "title": "Выпускные платья",
+        "images": [
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2017/01/1-1.jpg",
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2017/01/2-1.jpg",
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2017/01/3-1.jpg",
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2017/01/4-1.jpg",
+          "https://modnaya-krasivaya.ru/wp-content/uploads/2017/01/5-1.jpg"
+        ]
+      },
+      {
+        "title": "Свадебные платья",
+        "images": [
+          "https://nevestaxl.ru/wp-content/uploads/2020/11/olesya-2025-1.jpg",
+          "https://nevestaxl.ru/wp-content/uploads/2020/11/olesya-2025-2.jpg",
+          "https://nevestaxl.ru/wp-content/uploads/2020/11/olesya-2025-3.jpg",
+          "https://nevestaxl.ru/wp-content/uploads/2020/11/olesya-2025-4.jpg",
+          "https://nevestaxl.ru/wp-content/uploads/2020/11/olesya-2025-5.jpg"
+        ]
+      },
+      {
+        "title": "Мужские костюмы",
+        "images": [
+          "https://www.kp.ru/media/2021/06/28/4180591955.jpg",
+          "https://www.kp.ru/media/2021/06/28/4180591956.jpg",
+          "https://www.kp.ru/media/2021/06/28/4180591957.jpg",
+          "https://www.kp.ru/media/2021/06/28/4180591958.jpg",
+          "https://www.kp.ru/media/2021/06/28/4180591959.jpg"
+        ]
+      }
+    ]
+  }
+]
