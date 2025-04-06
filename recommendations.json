@@ -1,0 +1,41 @@
+{
+  "season": "Весна",
+  "blocks": [
+    {
+      "title": "Плащи",
+      "images": [
+        "https://example.com/images/spring/coat1.jpg",
+        "https://example.com/images/spring/coat2.jpg",
+        "https://example.com/images/spring/coat3.jpg"
+      ]
+    },
+    {
+      "title": "Кожанки",
+      "images": [
+        "https://example.com/images/spring/jacket1.jpg",
+        "https://example.com/images/spring/jacket2.jpg"
+      ]
+    },
+    {
+      "title": "У вас скоро выпускной?",
+      "images": [
+        "https://example.com/images/events/prom1.jpg",
+        "https://example.com/images/events/prom2.jpg"
+      ]
+    },
+    {
+      "title": "У вас свадьба?",
+      "images": [
+        "https://example.com/images/events/wedding1.jpg",
+        "https://example.com/images/events/wedding2.jpg"
+      ]
+    },
+    {
+      "title": "Важное событие?",
+      "images": [
+        "https://example.com/images/events/suit1.jpg",
+        "https://example.com/images/events/suit2.jpg"
+      ]
+    }
+  ]
+}
